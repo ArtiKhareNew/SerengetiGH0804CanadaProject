@@ -8,7 +8,13 @@ packages:
   gitUsername: ArtiKhareNew
   gitBranch: main
 - name: AzRepoMultiplyPackage
+  version: "5.0"
   gitServerName: srcCtrl_shared_AzRepos_Arti
   gitUrl: https://dev.azure.com/ArtiKhare/AzRepoMultiplyPackage/_git
   gitUsername: ArtiKhare
   gitBranch: main
+- name: substractpackage
+  gitServerName: src_shared_GitLabCtrl_Arti
+  gitUrl: https://gitlab.com/ArtiKhareGitlab
+  gitUsername: ArtiKhareGitlab
+  gitBranch: master
